@@ -31,7 +31,7 @@ Além disso, revisamos estruturas com Try-Catch, ou seja, tratamos possíveis er
 - **Página Inicial**:
 
 <div align="center" >
-  <img src="https://i.imgur.com/iJA1gFq.png" width="250">____<img src="https://i.imgur.com/b0fCZtq.gif" width="250">____<img src="https://i.imgur.com/HGApUsx.png" width="250">
+  <img src="https://i.imgur.com/iJA1gFq.png" width="250">____<img src="https://i.imgur.com/HGApUsx.png" width="250">
 </div>
 
 ---
@@ -56,11 +56,7 @@ Assim, nesse projeto criamos:
   <img src="https://i.imgur.com/HGApUsx.png" width=250>
 </div>
 
-- **Streaming e logout**:
 
-<div align="center" >
-  <img src="https://i.imgur.com/97DejeT.gif" width=220>
-</div>
 
 ---
 
