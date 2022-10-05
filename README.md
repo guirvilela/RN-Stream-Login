@@ -18,7 +18,7 @@ as lives dos seus streamers favoritos.
 
 </div>
 
-- [**Link do vídeo completo sobre o projeto**](https://i.imgur.com/bVW9n1U.gif)
+- [**Link do vídeo completo sobre o projeto**](https://i.imgur.com/hIWIBZ6.gif)
 
 ---
 
